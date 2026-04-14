@@ -1,0 +1,7 @@
+
+Baseline Dice: 0.8680
+Improved Dice: 0.8188
+DeepLab Dice: 0.8495
+
+Accuracy: 0.9122
+F1: 0.9434

@@ -1,0 +1,11 @@
+torch
+torchvision
+segmentation-models-pytorch
+albumentations
+opencv-python
+scikit-image
+matplotlib
+seaborn
+scikit-learn
+gradio
+huggingface_hub
